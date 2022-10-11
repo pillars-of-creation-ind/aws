@@ -10,3 +10,5 @@ This repository belong to learning of AWS Services and their use cases.
    [READ](./DynamoDb.md)
 3. S3
    [READ](./S3.md)
+4. Lambda
+   [READ](./Lambda.md)
