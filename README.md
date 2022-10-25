@@ -12,3 +12,5 @@ This repository belong to learning of AWS Services and their use cases.
    [READ](./S3.md)
 4. Lambda
    [READ](./Lambda.md)
+5. EC2
+   [READ](./EC2.md)
