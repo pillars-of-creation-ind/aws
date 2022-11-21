@@ -14,3 +14,5 @@ This repository belong to learning of AWS Services and their use cases.
    [READ](./Lambda.md)
 5. EC2
    [READ](./EC2.md)
+6. Cloud Formation
+   [READ](./CloudFormation.md)
