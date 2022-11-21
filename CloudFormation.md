@@ -21,3 +21,9 @@ In a template (with name), you can describe an Amazon EC2 instance, such as
 
 Cloud formation provisions an instance with an `ami-0ff8a91507f77f867` AMI ID,
 t2.micro instance type, test key pair name, and an amazon EBS volume
+
+## YAML
+
+- programming language
+- used to write configuration language
+- it is used to write a cloud formation template
